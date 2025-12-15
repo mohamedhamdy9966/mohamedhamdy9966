@@ -13,13 +13,13 @@
 
 ## 🚀 About Me
 
-✨ I'm a **Software Engineer** who enjoys challenges in **Frontend Development** and building **Full‑Stack MERN applications**. I love learning new technologies and **teaching what I learn** whenever I can.
+✨ I'm a **Software Engineer** who enjoys challenges in **Frontend Development** and building **Full-Stack MERN applications**. I love learning new technologies and **teaching what I learn** whenever I can.
 
 <p>
   <img src="https://skillicons.dev/icons?i=react,flutter,nodejs,mongodb" />
 </p>
 
-* 💻 Frontend & Full‑Stack Developer (MERN)
+* 💻 Frontend & Full-Stack Developer (MERN)
 * 🎯 Passionate about clean UI, performance, and scalability
 * 📚 Constant learner & knowledge sharer
 
@@ -55,21 +55,21 @@
 
 ```text
 2025 ────────── Present
-│ 🚀 Frontend & Full‑Stack Developer
+│ 🚀 Frontend & Full-Stack Developer
 │   • React, Tailwind, modern UI systems
 │   • MERN stack & REST APIs
 │   • Performance & scalability focus
 │
 2023 ────────── 2024
-│ 💻 Junior Full‑Stack Developer
-│   • E‑commerce & dashboards
+│ 💻 Junior Full-Stack Developer
+│   • E-commerce & dashboards
 │   • Authentication & authorization
 │   • MongoDB data modeling
 │
 2022 ────────── 2023
 │ 🌱 Learning Phase
 │   • JavaScript, React, Flutter
-│   • Personal & open‑source projects
+│   • Personal & open-source projects
 ```
 
 ---
@@ -81,10 +81,10 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohamedhamdy9966&repo=Tic-Tac-Toe&theme=tokyonight" />
 </p>
 
-* 🟦 **MERN Full‑Stack Applications**
+* 🟦 **MERN Full-Stack Applications**
 * 🟩 **React Games & UI Projects**
 * 🟨 **Landing Pages & Dashboards**
-* 🟥 **E‑commerce Applications**
+* 🟥 **E-commerce Applications**
 
 ---
 
@@ -104,7 +104,7 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://github.com/mohamedhamdy9966/mohamedhamdy9966/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/mohamedhamdy9966/mohamedhamdy9966/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
