@@ -1,8 +1,7 @@
 <!-- Animated Header -->
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=22D3EE&center=true&vCenter=true&width=650&lines=Hi+👋+I'm+Mohamed+Hamdy;Frontend+%26+Full-Stack+MERN+Developer;Mobile+%7C+Web+%7C+UI+Lover" alt="Typing SVG" />
-</p>
+<h1 align="center">Hi 👋, I'm Mohamed Hamdy</h1>
+<h3 align="center">Frontend & Full-Stack MERN Developer | Mobile & Web Apps</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mohamedhamdy9966&label=Profile%20Views&color=22D3EE&style=flat" />
