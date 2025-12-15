@@ -1,16 +1,62 @@
-## Hi there 👋
+# Hi there 👋, I'm Mohamed Hamdy
 
-<!--
-**mohamedhamdy9966/mohamedhamdy9966** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
 
-Here are some ideas to get you started:
+I'm a **Software Engineer** who enjoys challenges in **Frontend Development** and building **Full‑Stack MERN applications**. I love learning new technologies and **teaching what I learn** whenever I can.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 💻 Frontend & Full‑Stack Developer (MERN)
+* 🎯 Passionate about clean UI, performance, and scalability
+* 📚 Constant learner & knowledge sharer
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+
+* HTML5, CSS3, JavaScript (ES6+)
+* React.js, Vite
+* Tailwind CSS, Bootstrap
+
+### Backend
+
+* Node.js, Express.js
+* MongoDB
+
+### Tools & Others
+
+* Git & GitHub
+* Docker
+* REST APIs
+* Nginx
+
+---
+
+## 📌 Featured Projects
+
+* 🔹 **MERN Full‑Stack Applications**
+* 🔹 **React Games & UI Projects**
+* 🔹 **Landing Pages & Dashboards**
+* 🔹 **E‑commerce Applications**
+
+> Check out my repositories to see more 🚀
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohamedhamdy9966\&show_icons=true\&theme=react)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedhamdy9966\&layout=compact\&theme=react)
+
+---
+
+## 🤝 Connect With Me
+
+* 💼 GitHub: [github.com/mohamedhamdy9966](https://github.com/mohamedhamdy9966)
+* 📧 Email: *mohamedhamdymansour2@gmail.com*
+* 💬 LinkedIn: *mohamedhamdy9966*
+
+---
+
+⭐️ *Feel free to explore my repositories and give a star if you like my work!*
