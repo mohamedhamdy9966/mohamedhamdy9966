@@ -17,11 +17,15 @@ I'm a **Software Engineer** who enjoys challenges in **Frontend Development** an
 * HTML5, CSS3, JavaScript (ES6+)
 * React.js, Vite
 * Tailwind CSS, Bootstrap
+* Dart
+* Flutter
+* React Native
 
 ### Backend
 
 * Node.js, Express.js
 * MongoDB
+* Nest.js
 
 ### Tools & Others
 
@@ -55,7 +59,7 @@ I'm a **Software Engineer** who enjoys challenges in **Frontend Development** an
 
 * 💼 GitHub: [github.com/mohamedhamdy9966](https://github.com/mohamedhamdy9966)
 * 📧 Email: *mohamedhamdymansour2@gmail.com*
-* 💬 LinkedIn: *mohamedhamdy9966*
+* 💬 LinkedIn: *[mohamedhamdy9966](https://www.linkedin.com/in/mohamedhamdy9966)*
 
 ---
 
